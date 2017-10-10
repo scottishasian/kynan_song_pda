@@ -20,3 +20,5 @@ types_of_boat = {
     crew: 2
   }
 }
+
+puts types_of_boat[:four][:crew]
